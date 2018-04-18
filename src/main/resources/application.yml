@@ -1,0 +1,7 @@
+
+jdbc:
+  driverClassName: com.mysql.jdbc.Driver
+  url: jdbc:mysql://localhost:3306/oauthexam?createDatabaseIfNotExist=true
+  user: tutorialuser
+  pass: tutorialmy5ql
+  
